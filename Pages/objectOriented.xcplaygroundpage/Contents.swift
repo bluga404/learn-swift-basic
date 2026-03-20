@@ -25,7 +25,7 @@ import Foundation
  
  Objects in Stack are:
  - String, Int, Double, Bool
- - NEW: Struct, Enum
+ - NEW: Struct, Enum, Array
  
  Objects in Heap are:
  - Class, Actors
